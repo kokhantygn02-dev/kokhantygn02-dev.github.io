@@ -4,78 +4,6 @@
   <url>
     <loc>https://kokhantygn02-dev.github.io/</loc>
     <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/01-matchday-teammates.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/02-team-photo-light-blue-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/03-full-squad-photo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/04-team-photo-number-28.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/05-respect-team-photo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/06-team-photo-orange-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/07-u18-lineup.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/08-team-photo-green-black-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/09-pre-match-team-photo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/10-training-running.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/11-team-photo-orange-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/12-respect-match-photo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/13-team-photo-green-black-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/14-team-photo-number-28.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/15-team-photo-green-black-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/16-team-travel-photo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/17-team-training-photo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/18-team-group-photo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/19-team-photo-blue-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/20-team-photo-blue-kit-lineup.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/21-match-action-blue-kit.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/22-team-photo-black-kit-coach.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/23-team-photo-black-kit-lineup.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/images/24-team-photo-black-kit-matchday.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>https://kokhantygn02-dev.github.io/sa-khant-nyar-photo-01.jpg</image:loc>
     </image:image>
     <image:image>
@@ -89,9 +17,6 @@
     </image:image>
     <image:image>
       <image:loc>https://kokhantygn02-dev.github.io/sa-khant-nyar-photo-05.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>https://kokhantygn02-dev.github.io/sa-khant-nyar-photo-06.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>https://kokhantygn02-dev.github.io/sa-khant-nyar-photo-07.jpg</image:loc>
@@ -173,6 +98,81 @@
     </image:image>
     <image:image>
       <image:loc>https://kokhantygn02-dev.github.io/sa-khant-nyar-photo-33.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/01-matchday-teammates.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/02-team-photo-light-blue-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/03-full-squad-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/04-team-photo-number-28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/05-respect-team-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/06-team-photo-orange-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/07-u18-lineup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/08-team-photo-green-black-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/09-pre-match-team-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/10-training-running.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/11-team-photo-orange-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/12-respect-match-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/13-team-photo-green-black-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/14-team-photo-number-28.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/15-team-photo-green-black-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/16-team-travel-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/17-team-training-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/18-team-group-photo.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/19-team-photo-blue-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/20-team-photo-blue-kit-lineup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/21-match-action-blue-kit.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/22-team-photo-black-kit-coach.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/23-team-photo-black-kit-lineup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/images/24-team-photo-black-kit-matchday.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>https://kokhantygn02-dev.github.io/sa-khant-nyar-photo-06.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
